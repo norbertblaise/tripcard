@@ -1,0 +1,21 @@
+.main{
+    
+    box-shadow: 10px 10px 8px grey;
+    width: 50%;
+
+}
+.subdiv{
+    display: flex;
+    width: 100%;
+}
+.innersubdiv{
+    padding: 30px 30px 30px 30px;
+    width: 50%;
+    
+}
+.h2{
+    text-align: right
+}
+img{
+    width: 100%
+}
